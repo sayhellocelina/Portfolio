@@ -8,3 +8,6 @@ $(function () {
   $('[data-toggle="tooltip"]').tooltip()
 })
 
+// animate
+
+$ yarn add animate.css
