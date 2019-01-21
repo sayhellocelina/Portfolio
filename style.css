@@ -82,6 +82,17 @@ h6{
     font-size:1.2em;
 }
 
+.btn-success {
+    background: #2d2d2d;
+    border: none;
+}
+
+.btn-success:hover {
+    background:  #ffd10d;
+    color:black;
+    border: none;
+}
+
 /* Media Queries */
 
 /* For mobile phones: */
