@@ -11,4 +11,4 @@ $(function () {
 
 // animate
 
-$ yarn add animate.css
+// $ yarn add animate.css
